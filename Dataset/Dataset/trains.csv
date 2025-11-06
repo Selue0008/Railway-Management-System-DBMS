@@ -1,4 +1,0 @@
-Train_ID,Train_Name,Source,Destination,Departure_Time,Arrival_Time
-101,Rajdhani Express,Delhi,Mumbai,06:00,18:00
-102,Shatabdi Express,Bangalore,Chennai,08:00,12:00
-103,Duronto Express,Kolkata,Delhi,09:00,22:00

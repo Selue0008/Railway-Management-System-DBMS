@@ -1,4 +1,0 @@
-Booking_ID,Passenger_ID,Train_ID,Booking_Date,Seat_No,Fare,Status
-1,1,101,2024-03-01,S1,1500,Confirmed
-2,2,102,2024-03-03,A2,900,Confirmed
-3,3,103,2024-03-05,B4,2000,Cancelled
